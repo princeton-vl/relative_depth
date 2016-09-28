@@ -22,7 +22,7 @@ Please check out the [project site](http://www-personal.umich.edu/~wfchen/depth-
 		cd relative_depth
 		mkdir data
 		cd data
-		wget googledrive.com/host/0B02I7-1fYj-cT2JDTTBSbjFFRWc -O DIW_Annotations_splitted.tar.gz
+		wget https://vl-lab.eecs.umich.edu/data/nips2016/DIW_Annotations_splitted.tar.gz
 		tar -xzf DIW_Annotations_splitted.tar.gz
 		rm DIW_Annotations_splitted.tar.gz
 		
@@ -34,7 +34,7 @@ Please check out the [project site](http://www-personal.umich.edu/~wfchen/depth-
 Please first run the following commands to download the test data from our processed NYU dataset and the pre-trained models:
 
 	cd relative_depth
-	wget googledrive.com/host/0B02I7-1fYj-cRTUxTlJldDQ0T1U -O data.tar.gz
+	wget https://vl-lab.eecs.umich.edu/data/nips2016/data.tar.gz
 	tar -xzf data.tar.gz
 	rm data.tar.gz
 	cd data
@@ -44,7 +44,7 @@ Please first run the following commands to download the test data from our proce
 	cd ../src
 	mkdir results
 	cd results
-	wget googledrive.com/host/0B02I7-1fYj-cc3RxQ1dvV29tZ0k -O hourglass3.tar.gz
+	wget https://vl-lab.eecs.umich.edu/data/nips2016/hourglass3.tar.gz
 	tar -xzf hourglass3.tar.gz
 	rm hourglass3.tar.gz
 
