@@ -68,6 +68,9 @@ Then change directory into `/relative_depth/src/experiment`.
 
 		th test_model_on_DIW.lua -num_iter 90000 -prev_model_file ../results/hourglass3/AMT_from_205315_1e-4_release/Best_model_period2.t7 -test_model our
 
+5. To test on a single image, we provide a handy script `test_on_one_image.lua`:
+
+		th test_on_one_image.lua -prev_model_file Model.t7 -input_image input.jpg -output_image output.jpg
 
 ## Training 
 
