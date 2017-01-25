@@ -1,10 +1,12 @@
 # Single-Image Depth Perception in the Wild
 
-Code for reproducting the results in the follwing paper:
+Code for reproducing the results in the follwing paper:
 
-**Single-Image Depth Perception in the Wild,**
-Weifeng Chen, Zhao Fu, Dawei Yang, Jia Deng
-Neural Information Processing Systems (NIPS), 2016.
+
+	Single-Image Depth Perception in the Wild,
+	Weifeng Chen, Zhao Fu, Dawei Yang, Jia Deng
+	Neural Information Processing Systems (NIPS), 2016.
+
 
 Please check out the [project site](http://www-personal.umich.edu/~wfchen/depth-in-the-wild/)  for more details.
 
