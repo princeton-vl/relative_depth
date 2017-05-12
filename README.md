@@ -72,7 +72,8 @@ Then change directory into `/relative_depth/src/experiment`.
 
 5. To test on a single image, we provide a handy script `test_on_one_image.lua`:
 
-		th test_on_one_image.lua -prev_model_file Model.t7 -input_image input.jpg -output_image output.jpg
+		th test_on_one_image.lua -prev_model_file {Model.t7} -input_image input.jpg -output_image output.jpg
+   , where `{Model.t7}` should be replaced with the previous model file such as `../results/hourglass3/AMT_from_205315_1e-4_release/Best_model_period2.t7`.
 
 ## Training 
 
