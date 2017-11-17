@@ -1,6 +1,6 @@
 # Single-Image Depth Perception in the Wild
 
-Code for reproducing the results in the follwing paper:
+Code for reproducing the results in the following paper:
 
 
 	Single-Image Depth Perception in the Wild,
