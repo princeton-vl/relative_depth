@@ -98,4 +98,6 @@ To train the model ***Ours_NYU_DIW***(our network pre-trained on NYU and fine-tu
 
 
 
+# More
 
+This work is also featured in the first release of the [Wolfram Neural Net Repository](https://resources.wolframcloud.com/NeuralNetRepository/). See this [article](http://blog.wolfram.com/2018/06/14/launching-the-wolfram-neural-net-repository/) for more details.
