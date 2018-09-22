@@ -50,6 +50,7 @@ Please first run the following commands to download the test data from our proce
 	tar -xzf hourglass3.tar.gz
 	rm hourglass3.tar.gz
 
+Note: You can also download [data.tar.gz](https://drive.google.com/open?id=0B02I7-1fYj-cRTUxTlJldDQ0T1U) and [hourglass3.tar.gz](https://drive.google.com/open?id=0B02I7-1fYj-cc3RxQ1dvV29tZ0k) from Google Drive.
 	
 
 Then change directory into `/relative_depth/src/experiment`.
